@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm <code>Somyan</code> </h1>
-<img alt="coding_img" width="12%" align="left" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/animated_gif_1.gif">
+<img alt="coding_img" width="12%" align="left" src="https://raw.githubusercontent.com/somyanPhilips/somyanPhilips/refs/heads/main/animated_gif_1.gif">
 <p align="left">&nbsp;</p><p align="left">&nbsp;</p><h3 align="left">A WebDeveloper and Programmer</h3>
 
 <p align="left">
 &nbsp;</p>
 
 
-<img alt="scroll" width="35%" align="right" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/Pixelated%20Spell%20Scroll_1.png">
+<img alt="scroll" width="35%" align="right" src="https://raw.githubusercontent.com/somyanPhilips/somyanPhilips/refs/heads/main/Pixelated%20Spell%20Scroll_1.png">
 
 ___
 - 🌱 I’m currently learning <code><b>React, React_Native, Nodejs</b></code>
 
-- 👨‍💻 All of my projects are available at **[https://jsfiddle.net/u/som002/fiddles](https://jsfiddle.net/u/som002/fiddles)**
+- 👨‍💻 All of my projects are available at **[https://jsfiddle.net/u/somyanPhilips/fiddles](https://jsfiddle.net/u/somyanPhilips/fiddles)**
 
 - 💬 Ask me about **Javascript, Scss, HTML**
 
@@ -32,6 +32,6 @@ ___
 
 ___
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=som002&show_icons=true&locale=en&layout=compact" alt="som002" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somyanPhilips&show_icons=true&locale=en&layout=compact" alt="somyanPhilips" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=som002&show_icons=true&locale=en" alt="som002" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somyanPhilips&show_icons=true&locale=en" alt="somyanPhilips" /></p>
